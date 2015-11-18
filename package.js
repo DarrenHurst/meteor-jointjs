@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'adain:meteor-jointjs',
+  name: 'darrenhurst:meteor-jointjs',
   version: '0.9.3',
   summary: 'jointJS for meteor',
-  git: 'https://github.com/ADAIN/meteor-jointjs.git',
+  git: 'https://github.com/DarrenHurst/meteor-jointjs.git',
   documentation: 'README.md'
 });
 
